@@ -1,0 +1,91 @@
+body{
+    background-color: black;
+    margin: 0%;
+    padding: 0%;
+  font-family: "Poppins", system-u
+}
+  p,iframe{
+    margin-top: 10px;
+
+  }
+  .main{
+    width: 100%;
+    height: 150vh;
+  }
+.flex{
+    display:flex;
+}
+.fa-brands{
+    color: red;
+    padding-left: 20px;
+    font-size: x-large;
+}
+#icon1{
+    color: white;
+    font-size: x-large;
+}
+#icon2{
+color: white;
+border:5px solid gray;
+font-size: large;
+}
+#icon3{
+padding-left: 50px;
+font-size: x-large;
+}
+#icon4{
+    margin-left: 150px;
+font-size: x-large;
+}
+#icon5{
+    margin-left: 10px;
+    font-size: x-large; 
+}
+#icon6{
+    font-size: x-large; 
+    margin-left: 10px;
+    
+}
+
+input{
+    width: 40%;
+    margin-left: 100px;
+    height: 40px;
+    border: 1px solid gray ;
+    background-color: black;
+    border-radius: 50px;
+}
+
+.serach{
+color: white;
+padding-left: 40px;
+width: 100%;
+height: 12vh;
+position: fixed;
+}
+
+.nav{
+    display: block;
+width: 20%;
+height: 150vh;
+color: white ;
+margin-top: 50px;
+position: fixed;
+}
+li{
+    list-style: none;
+}
+#icon7{
+    padding-bottom: 13px;
+}
+.side{
+    display: flex;
+    gap: 2px;
+    width: 100%;
+    margin-left: 310px;
+}
+.vidoe{
+    color:white;
+    width: 100%;
+margin-top: 100px;
+}
